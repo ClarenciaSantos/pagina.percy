@@ -1,0 +1,11 @@
+<html>
+
+<head>
+<meta charset="utf-8"/>
+<title>percy_jackson.com</title>
+<link rel="shortcut icon" href="imagens\icon.png">
+</head>
+<frameset Cols="100%" border=0>
+		<frame src="sobre1.html">
+	</frameset>
+</html>
